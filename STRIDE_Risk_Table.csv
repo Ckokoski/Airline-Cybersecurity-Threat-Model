@@ -1,0 +1,7 @@
+System,Threat Type,Example Attack,Impact,Detection Method
+Reservation System,Spoofing,Credential stuffing,Account takeover,Login anomaly monitoring
+WiFi Network,Tampering,Rogue access point,Credential theft,Wireless IDS alerts
+Baggage System,Denial of Service,Ransomware,Airport shutdown,Network segmentation alerts
+Mobile App,Information Disclosure,API scraping,PII leak,API rate monitoring
+Vendor Access,Elevation of Privilege,Compromised vendor account,Network breach,Privileged access logging
+Employee Accounts,Repudiation,Shared credentials,Unauthorized changes,Audit log review
